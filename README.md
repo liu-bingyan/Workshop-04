@@ -1,4 +1,6 @@
 # Workshop-04
+INMAS workshop-04 : project 
+Author: Anji Dong, Ayca Fatma Durmaz, Bingyan Liu
 
 ## Analysis of Movie Reviews
 Users’ movie reviews can influence our decision to watch or not and hence affect the movie’s commercial success. In this project you will use natural language processing and other workshop techniques to better understand a dataset of movie reviews, writing predictive models that can classify the reviews into interesting categories.
@@ -44,4 +46,13 @@ NLP models on spoiler detecter
 NLP models on sentimental detection
 
 NLP models : predict genre using reviews
+
+
+## Potential Improvements
+    - Try different combinations
+    - Groupby 'genres'
+    - Adding more features
+
+## Workspace 
+https://drive.google.com/drive/folders/1cPfF1ZY_E9zPwcklOKhyAJXzRLCchlmT
 
